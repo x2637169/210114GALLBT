@@ -1,0 +1,116 @@
+{
+    "graphic": [
+        {
+            "name": "A_Count",
+            "path": "graphic/",
+            "width": 133,
+            "height": 117
+        },
+        {
+            "name": "F_AccountFrame",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "name": "S_243ways",
+            "path": "graphic/",
+            "width": 47,
+            "height": 58
+        },
+        {
+            "name": "S_Loading",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "name": "B_Bet",
+            "path": "graphic/UI/",
+            "width": 56,
+            "height": 20
+        },
+        {
+            "name": "B_CBAccountTotalBet",
+            "path": "graphic/UI/",
+            "width": 305,
+            "height": 64
+        },
+        {
+            "name": "S_CreditBetBackground",
+            "path": "graphic/UI/",
+            "width": 355,
+            "height": 67
+        },
+        {
+            "name": "S_Language",
+            "path": "graphic/UI/",
+            "width": 56,
+            "height": 20
+        },
+        {
+            "name": "U_PaytableBase",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "name": "U_PaytableBonus",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "name": "trans_back",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "animation": [
+        {
+            "name": "H_PageBackground",
+            "path": "graphic/",
+            "width": 1280,
+            "height": 720,
+            "frame_cnt": 3
+        },
+        {
+            "name": "S_Option1_",
+            "path": "graphic/",
+            "width": 441,
+            "height": 582,
+            "frame_cnt": 2
+        },
+        {
+            "name": "S_Option2_",
+            "path": "graphic/",
+            "width": 368,
+            "height": 560,
+            "frame_cnt": 2
+        },
+        {
+            "name": "B_Autoplay_",
+            "path": "graphic/UI/",
+            "width": 87,
+            "height": 50,
+            "frame_cnt": 2
+        },
+        {
+            "name": "H_Return_",
+            "path": "graphic/UI/",
+            "width": 85,
+            "height": 45,
+            "frame_cnt": 2
+        },
+        {
+            "name": "S_CBW_",
+            "path": "graphic/UI/",
+            "width": 286,
+            "height": 80,
+            "frame_cnt": 2
+        }
+    ],
+    "music": [],
+    "video": []
+}

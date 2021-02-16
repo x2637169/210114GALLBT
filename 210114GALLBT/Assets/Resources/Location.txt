@@ -1,0 +1,124 @@
+﻿{
+  "UIName": [
+    {
+      "name": "Wild",
+      "X": 1152,
+      "Y": 1516
+    },
+    {
+      "name": "Bonus",
+      "X": 1152,
+      "Y": 1290
+    },
+    {
+      "name": "Scatter",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "P1",
+      "X": 488,
+      "Y": 1856
+    },
+    {
+      "name": "P2",
+      "X": 488,
+      "Y": 1556
+    },
+    {
+      "name": "P3",
+      "X": 1736,
+      "Y": 1997
+    },
+    {
+      "name": "P4",
+      "X": 1736,
+      "Y": 1726
+    },
+    {
+      "name": "P5",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "P6",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "A",
+      "X": 488,
+      "Y": 1300
+    },
+    {
+      "name": "K",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "Q",
+      "X": 1736,
+      "Y": 1475
+    },
+    {
+      "name": "J",
+      "X": 1736,
+      "Y": 1208
+    },
+    {
+      "name": "10",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "9",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "Image_243RouteL",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "Image_243RouteR",
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "name": "MessagePaysText",
+      "X": 1364,
+      "Y": 880
+    },
+    {
+      "name": "MessageText",
+      "X": 871,
+      "Y": 880
+    },
+    {
+      "name": "Image_MessageIcon01",
+      "X": 318,
+      "Y": 880
+    },
+    {
+      "name": "Image_MessageIcon02",
+      "X": 389,
+      "Y": 880
+    },
+    {
+      "name": "Image_MessageIcon03",
+      "X": 461,
+      "Y": 880
+    },
+    {
+      "name": "Image_MessageIcon04",
+      "X": 533,
+      "Y": 880
+    },
+    {
+      "name": "Image_MessageIcon05",
+      "X": 604,
+      "Y": 880
+    }
+  ]
+}

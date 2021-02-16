@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712f610fc72ae0a48b8a08f8c43324fd, type: 3}
+  m_Name: WLS_00030DK
+  m_EditorClassIdentifier: 
+  items:
+  - ID: 0
+    Name: Wild
+    Sprite: {fileID: 21300000, guid: 44ff87de5c690e74abdc497c18a7a17a, type: 3}
+  - ID: 1
+    Name: Bonus
+    Sprite: {fileID: 21300000, guid: 7ac47f5968552964798b5d030feea74e, type: 3}
+  - ID: 2
+    Name: P1
+    Sprite: {fileID: 21300000, guid: 7e0ec33761172ad4e9d035dd6eee863d, type: 3}
+  - ID: 3
+    Name: P2
+    Sprite: {fileID: 21300000, guid: 262a70152ec276447888b90f54f6378d, type: 3}
+  - ID: 4
+    Name: P3
+    Sprite: {fileID: 21300000, guid: 5db6342fe95882042bd44d75e1ca1934, type: 3}
+  - ID: 5
+    Name: P4
+    Sprite: {fileID: 21300000, guid: f01f1a90c02b0a64396d374e53fe584c, type: 3}
+  - ID: 6
+    Name: A
+    Sprite: {fileID: 21300000, guid: 67b339d763f05534799902b18a57e9b7, type: 3}
+  - ID: 7
+    Name: K
+    Sprite: {fileID: 21300000, guid: a113ee62364a13d4eb589f94e49a1181, type: 3}
+  - ID: 8
+    Name: Q
+    Sprite: {fileID: 21300000, guid: 4f38277cef680a043a6b064810683cf6, type: 3}
+  - ID: 9
+    Name: J
+    Sprite: {fileID: 21300000, guid: 54fcfee2df90ad7419dd3b9637e18fc4, type: 3}
+  - ID: 10
+    Name: 10
+    Sprite: {fileID: 21300000, guid: d665650fa32d6f045aa668d2b09e25f3, type: 3}
+  - ID: 11
+    Name: 9
+    Sprite: {fileID: 21300000, guid: 2846e9b92390ad24494aa70ce04a72cd, type: 3}

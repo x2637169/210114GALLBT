@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &810627670784856509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 810627670784856482}
+  - component: {fileID: 810627670784856483}
+  - component: {fileID: 810627670784856508}
+  m_Layer: 0
+  m_Name: Printer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &810627670784856482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810627670784856509}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 660.3046, y: 309.28683, z: 16.005806}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &810627670784856483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810627670784856509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6961f1da5859e31479d1b3c31679d701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gen2Status: {fileID: 810627670784856508}
+  uIController: {fileID: 0}
+  ReciveLoop: 0
+  PrinterWorking: 0
+  TicketButton: 0
+  TimeOutCount: 0
+--- !u!114 &810627670784856508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810627670784856509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35f8f9b874760ea43bb696425edd9108, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mod_Gen2: {fileID: 810627670784856483}
+  mod_UIController: {fileID: 0}
+  comPortDropDown: {fileID: 0}
+  printer_PanelExit: {fileID: 0}
+  printer_PanelOpenClose: {fileID: 0}
+  ErrorText: {fileID: 0}
+  NoticeText: {fileID: 0}
+  TicketOutText: {fileID: 0}
+  TicketOutValueText: {fileID: 0}
+  SettingInfo: {fileID: 0}
+  Gen2_OC_Info: {fileID: 0}
+  TicketOutValueUI_Obj: {fileID: 0}
+  strbytes: 
+  keepConvert: 0
+  PrinterDisconnect: 0

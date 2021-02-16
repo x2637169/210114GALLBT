@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DKSpecialAnimReel4
+  m_Controller: {fileID: 9100000, guid: 6c6298c5b21d44d4992d18a5222bf818, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4038291fccd11a54b86d9e1d9d0b6580, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a088aa3b7e127784db051a8c7aa1d6e5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 24ae98b68d5f7a642bbd6aed80c20b34, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2af13e8a739bd694aa57de7b0ccf0d5d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8819caec8be555f43895a61edb55533a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 048d0e4381aba8c4bbc84d05989eb6ed, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c171dfc178589f24fb00bf54e9a121f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0c6d69efa4071104b9707b833a01b53e, type: 2}
